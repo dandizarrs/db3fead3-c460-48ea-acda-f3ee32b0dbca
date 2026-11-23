@@ -1,0 +1,4 @@
+1795395870s 1 https://dandiarchive.s3.amazonaws.com/zarr/db3fead3-c460-48ea-acda-f3ee32b0dbca/extensions/template_metrics/metrics/main_to_next_extremum_duration/0?versionId=a.5aGy0JRpG1H_6slEcs51MFjqqwBXcM
+1795395870s 1 https://api.dandiarchive.org/api/zarr/db3fead3-c460-48ea-acda-f3ee32b0dbca/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fmain_to_next_extremum_duration%2F0&download=true
+1795395870s 1 https://dandiarchive.s3.amazonaws.com/zarr/db3fead3-c460-48ea-acda-f3ee32b0dbca/extensions/template_metrics/metrics/peak_to_trough_duration/0?versionId=kxlG_Lp5J2OPS6m4MGjA8MlB1lEV.AW3
+1795395870s 1 https://api.dandiarchive.org/api/zarr/db3fead3-c460-48ea-acda-f3ee32b0dbca/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fpeak_to_trough_duration%2F0&download=true
